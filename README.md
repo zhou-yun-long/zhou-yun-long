@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 简单的自我介绍
+-->
+## 简单的自我介绍
 
-## 周运龙——福大至诚学院20级大一新生，
+# 周运龙——福大至诚学院20级大一新生，
 
 ⭐计算机小白一枚
 
