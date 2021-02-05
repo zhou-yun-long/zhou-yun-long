@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **zhou-yun-long/zhou-yun-long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## 简单的自我介绍
 
-# 周运龙——福大至诚学院20级大一新生，
+### 周运龙——福大至诚学院20级大一新生，
 
-⭐计算机小白一枚
+⭐目前，计算机小白一枚
 
 🌙也没有啥拿的出手的特长/(ㄒoㄒ)/~~
 
